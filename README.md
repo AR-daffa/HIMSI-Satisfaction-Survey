@@ -71,15 +71,12 @@ Overall, this project provides a clear monitoring dashboard to evaluate HIMSI ev
 ## Dashboard Access
 You can view the dashboard through:
 
-### Screenshot Preview
-> Upload your dashboard image into `assets/` folder, then update the file name below.
-
-![Dashboard Preview](assets/dashboard-preview.png)
-
 ### Looker Studio Link
 Dashboard Link: **https://lookerstudio.google.com/reporting/d217f4ce-feb7-48fd-a3cd-84451b926240**
 
-
+![Dashboard Preview 1](assets/dashboard-preview%201.png)
+![Dashboard Preview 2](assets/dashboard-preview%202.png)
+![Dashboard Preview 3](assets/dashboard-preview%203.png)
 ---
 
 ## Author
