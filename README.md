@@ -8,7 +8,7 @@ This project aims to analyze and monitor participant satisfaction across HIMSI U
 ### 2. Dataset Description
 This dataset contains satisfaction survey responses collected from HIMSI event participants through Google Forms. The dataset includes key information such as:
 - **Respondent Data:** participant category (students, lecturers, and alumni)
-- **Survey Indicators:** satisfaction dimensions and service indicators (Content Quality, Comfortability, Responsiveness, comfortability, and Credibility)
+- **Survey Indicators:** satisfaction dimensions and service indicators (Content Quality, Comfortability, Responsiveness, and Credibility)
 - **Rating Data:** Likert scale satisfaction scores (scale 1–5)
 - **Event Feedback:** qualitative feedback/comments
 - **Submission Data:** response timestamp and event-related metadata
