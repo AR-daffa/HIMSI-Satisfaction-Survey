@@ -13,8 +13,6 @@ This dataset contains satisfaction survey responses collected from HIMSI event p
 - **Event Feedback:** qualitative feedback/comments
 - **Submission Data:** response timestamp and event-related metadata
 
-> Note: The raw dataset is stored in Google Sheets and visualized in Looker Studio.
-
 ---
 
 ### 3. Data Analysis Stages
